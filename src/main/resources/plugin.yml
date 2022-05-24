@@ -1,0 +1,6 @@
+name: LocalWallet
+version: '${project.version}'
+main: com.muhammaddaffa.localwallet.LocalWallet
+api-version: 1.17
+depend: [ WRLDPaymentsAPI ]
+authors: [ aglerr ]
